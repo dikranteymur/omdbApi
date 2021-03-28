@@ -22,7 +22,7 @@ struct Film: Codable {
     let type: String
     let poster: String
     
-    private enum CodinKeys: String, CodingKey {
+    private enum CodingKeys: String, CodingKey {
         case title = "Title"
         case year = "Year"
         case imdbId = "imdbID"
