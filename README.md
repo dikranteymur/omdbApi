@@ -1,1 +1,2 @@
-# omdbApi - Film Uygulamasi
+# Film Uygulamasi
+- omdbApi kullanarak fim uygulamasi yapmak
